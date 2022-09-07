@@ -13,7 +13,7 @@ label you created for the physical SIM cell plan. Also note the `EID`.
 4. Turn off the other lines with the toggle next to the phone number
 5. Give the T-Mobile Rep the `IMEI` and `EID`
 6. After a couple minutes, you should see a pop up in settings to enable the cellular plan. If not, you may have to go to Settings > Cellular >
-Add Cellular Plan and scan [this]() QR code or enter the SM-DP+ Address: `T-MOBILE.GDSB.NET` leaving the Activation code blank and the 
+Add Cellular Plan and scan [this](./eSIM-QR.png) QR code or enter the SM-DP+ Address: `T-MOBILE.GDSB.NET` leaving the Activation code blank and the 
 confirmation code blank.
 7. After it's enabled, make sure the cellular plan settings are what you want them to be (Ex: Primary Phone Line, Preffered Cellular Data line, etc.)
 
