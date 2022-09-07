@@ -2,8 +2,7 @@
 Get eSIM on your iPhone with two T-Mobile accounts.
 
 With the new iPhone 14 not including a physical SIM card slot, eSIM is the only option. For those that rock dual sim with two 
-T-Mobile accounts (1 physical sim, 1 eSIM), the switch to two eSIMs can be a bit chaotic. After dealing with a very knowledgeable representative
-(Shout out to Evan in Tennessee! He was awesome), I decided to document the steps below.
+T-Mobile accounts (1 physical sim, 1 eSIM), the switch to two eSIMs can be a bit chaotic. After dealing with a very knowledgeable representative, I decided to document the steps below.
 
 1. Call T-Mobile from another phone as you will be shutting off your cell plans in iOS. They will have to use a special system to override 
 having two plans on one `EID`.
@@ -15,6 +14,6 @@ label you created for the physical SIM cell plan. Also note the `EID`.
 6. After a couple minutes, you should see a pop up in settings to enable the cellular plan. If not, you may have to go to Settings > Cellular >
 Add Cellular Plan and scan [this](./eSIM-QR.png) QR code or enter the SM-DP+ Address: `T-MOBILE.GDSB.NET` leaving the Activation code blank and the 
 confirmation code blank.
-7. After it's enabled, make sure the cellular plan settings are what you want them to be (Ex: Primary Phone Line, Preffered Cellular Data line, etc.)
+7. After it's enabled, enable the other line and make sure the cellular plan settings are what you want them to be (Ex: Primary Phone Line, Preffered Cellular Data line, etc.)
 
 That's it!
