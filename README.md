@@ -1,7 +1,7 @@
 # T-Mobile Dual eSIM
-A small write-up/resource for getting eSIM on your iPhone with two T-Mobile accounts
+Get eSIM on your iPhone with two T-Mobile accounts.
 
-With the new iPhone 14 coming out and not including a physical SIM card slot, eSIM is the only option. For those that rock dual sim with two 
+With the new iPhone 14 not including a physical SIM card slot, eSIM is the only option. For those that rock dual sim with two 
 T-Mobile accounts (1 physical sim, 1 eSIM), the switch to two eSIMs can be a bit chaotic. After dealing with a very knowledgeable representative
 (Shout out to Evan in Tennessee! He was awesome), I decided to document the steps below.
 
@@ -18,5 +18,3 @@ confirmation code blank.
 7. After it's enabled, make sure the cellular plan settings are what you want them to be (Ex: Primary Phone Line, Preffered Cellular Data line, etc.)
 
 That's it!
-
- 
